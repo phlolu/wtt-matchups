@@ -1,0 +1,115 @@
+body {
+  background-color: #242423ff;
+  font-family: "Inter", sans-serif;
+}
+
+
+.val {
+  visibility: hidden;
+  display: none;
+}
+
+
+.header {
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.current {
+  color: green;
+}
+
+.container {
+  display: block;
+  margin: auto;
+  font-weight: bold;
+  max-width: 500px;
+
+}
+
+#maincontent {
+  background-color: #333533ff;
+  height: 800px;
+}
+
+.team-box,
+.opp-box {
+  margin: auto auto 25px;
+}
+
+#team-drop,
+#opp-drop {
+  background-color: #e8eddf;
+  font-weight: 700;
+  border-radius: 5px;
+  width: 250px;
+  font-size: 24px;
+  margin-bottom: 25px;
+}
+
+.matchup-header {
+  display: block;
+}
+
+.table-wrapper {
+  border: 2px solid #E8EDDF;
+  border-radius: 5px;
+  margin: 15px 25px;
+  overflow: hidden;
+  word-wrap: normal;
+
+}
+
+table {
+  text-align: center;
+  border-collapse: collapse;
+  width: 100%
+}
+
+thead {
+  color: #E5EBDE;
+  background-color: #F5CB5C;
+  font-size: 24px;
+  font-weight: 700px;
+
+}
+
+td {
+  width: 150px;
+  height: 100px;
+}
+
+/*
+.team.cat {
+  border-top-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+}
+
+.opp.cat {
+  border-top-right-radius: 5px;
+  border-bottom-right-radius: 5px;
+}
+*/
+
+.label {
+  font-size: 30px;
+  color: #F5CB5C;
+}
+
+.main {
+  color: #E8EDDF;
+  font-size: 20px;
+}
+
+
+/*
+color palette
+
+https://coolors.co/cfdbd5-e8eddf-f5cb5c-242423-333533
+--gainsboro: #cfdbd5ff;
+--alabaster: #e8eddfff;
+--maize-crayola: #f5cb5cff;
+--eerie-black: #242423ff;
+--jet: #333533ff;
+
+*/

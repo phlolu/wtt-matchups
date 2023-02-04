@@ -1,0 +1,9 @@
+TeamId,TeamAlias,OppId,OppAlias,Win,Loss,PointsFor,PointsAgainst
+426,AWON BOYS,427,Chasing Legacy,4,5,820.22,905.12
+426,AWON BOYS,437,Last Dance,2,2,368.98,354.72
+427,Chasing Legacy,426,AWON BOYS,5,4,905.12,820.22
+427,Chasing Legacy,437,Last Dance,6,0,738.96,570.08
+437,Last Dance,426,AWON BOYS,2,2,354.72,368.98
+437,Last Dance,427,Chasing Legacy,0,6,570.08,738.96
+425,Kaptain Obvious,428,kukere kings,3,1,429.86,359.64
+428,kukere kings,425,Kaptain Obvious,1,3,359.64,429.86
