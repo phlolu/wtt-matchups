@@ -2,7 +2,7 @@
   {% for item in site.data.navigation %}
     <a
       href="{{item.link}}"
-      {% if page.url == item.link %}
+      {% if page.url == item.link | prepend: site.baseurl %}
       class="current"
       {% endif %}>
       {{ item.name }}
