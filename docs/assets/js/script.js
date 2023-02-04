@@ -99,4 +99,3 @@ opponentSelector.addEventListener("click",selectTeam)
 
 
 
-

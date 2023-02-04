@@ -67,15 +67,17 @@ table {
 }
 
 thead {
-  color: #E5EBDE;
+  color: #525032;
   background-color: #F5CB5C;
-  font-size: 24px;
+  font-size: 18px;
   font-weight: 700px;
+  overflow-wrap: break-word;
 
 }
 
 td {
-  width: 150px;
+  width: 100px;
+  max-width: 100px;
   height: 100px;
 }
 
@@ -101,6 +103,9 @@ td {
   font-size: 20px;
 }
 
+.premier {
+  color: #e8eddfff;
+}
 
 /*
 color palette
