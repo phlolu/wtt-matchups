@@ -1,0 +1,83 @@
+---
+layout: default
+title: Walk The Talk
+---
+
+<h1 class="header">{{ page.title }} {{ "Head&#8209;to&#8209;Head Matchups" }}</h1>
+
+{% assign league = {{site.data.FullData | group_by: "TeamAlias"}} %}
+{% assign matches = {{site.data.FullData }} %}
+
+<div class="container">
+  <div id="maincontent">
+    <div class="team-box">
+      <select name="" id="team-drop">
+        <option
+          value="none"
+          selected
+          disabled
+          hidden>Select Team</option>
+        {% for team in league %}
+          <option value={{ team.items[0].TeamId }}>
+            {{ team.name }}
+          </option>
+        {% endfor %}
+      </select>
+      <select name="" id="opp-drop">
+        <option
+          value="none"
+          selected
+          disabled
+          hidden>Select Opponent</option>
+        {% for team in league %}
+          <option value={{ team.items[0].TeamId }}>
+            {{ team.name }}
+          </option>
+        {% endfor %}
+      </select>
+    </div>
+    <div class="results">
+      <div class="table-wrapper">
+        <table>
+          <thead>
+            <td class="team cat">Team</td>
+            <td class="label"></td>
+            <td class="opp cat">Opponent</td>
+          </thead>
+          <tbody>
+            <tr>
+              <td class="main team win"></td>
+              <td class="label">Wins</td>
+              <td class="main opp win"></td>
+            </tr>
+            <tr>
+              <td class="main team point"></td>
+              <td class="label">Points</td>
+              <td class="main opp point"></td>
+            </tr>
+            <tr>
+              {% for item in {{matches}} %}
+                <td class="val team win rec {{ item.TeamId }} {{item.OppId}}">{{ item.Win }}</td>
+                {% if forloop.first %}
+                  <td class="val">Wins</td>
+                {% endif %}
+                <td class="val opp win rec {{ item.TeamId }} {{item.OppId}}">{{ item.Loss }}</td>
+              {% endfor %}
+            </tr>
+            <tr>
+              {% for item in {{matches}} %}
+                <td class="val team point rec {{ item.TeamId }} {{item.OppId}}">{{ item.PointsFor }}</td>
+                {% if forloop.first %}
+                  <td class="val">Points</td>
+                {% endif %}
+                <td class="val opp point rec {{ item.TeamId }} {{item.OppId}}">{{ item.PointsAgainst }}</td>
+              {% endfor %}
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <table></table>
+    </div>
+    <div></div>
+  </div>
+</div>

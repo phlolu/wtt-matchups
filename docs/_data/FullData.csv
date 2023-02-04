@@ -1,0 +1,813 @@
+TeamId,TeamAlias,OppId,OppAlias,Win,Loss,PointsFor,PointsAgainst
+425,Kaptain Obvious,426,AWON BOYS,3,1,377.72,361.16
+425,Kaptain Obvious,427,Chasing Legacy,2,5,580.48,766
+425,Kaptain Obvious,428,kukere kings,3,1,429.86,359.64
+425,Kaptain Obvious,429,LumiToonz,4,1,405.48,363.06
+425,Kaptain Obvious,430,Knights of the Odell Republic,2,3,482.68,487.38
+425,Kaptain Obvious,431,Mark Alexander I,3,3,622.76,616.04
+425,Kaptain Obvious,432,Half Baked,4,6,942.84,1049.58
+425,Kaptain Obvious,433,babyPanther,7,5,1130.38,1077.06
+425,Kaptain Obvious,434,Super Bears FC,3,4,540.94,695.38
+425,Kaptain Obvious,435,I Have No Team Name,1,3,366.6,408.06
+425,Kaptain Obvious,436,Drake's New Favorite Team,2,4,515.04,537.3
+425,Kaptain Obvious,437,Last Dance,4,4,754.58,761.06
+425,Kaptain Obvious,438,El Casamigos,2,6,627.52,741.22
+425,Kaptain Obvious,439,Team on ma back,4,3,637.74,627.28
+425,Kaptain Obvious,440,RedZone Junkie,2,1,299.48,253.68
+425,Kaptain Obvious,441,419ers,5,3,706.98,654.56
+425,Kaptain Obvious,442,I am JuJu,1,4,396.76,454.3
+425,Kaptain Obvious,443,Shivakamini Somakandarkram,2,2,339.46,328.4
+425,Kaptain Obvious,444,Tough City Bears,2,3,442.04,490
+425,Kaptain Obvious,445,SUDS,1,1,169.96,230.72
+425,Kaptain Obvious,446,Wanna be Startin Sutton,0,1,98.92,113.48
+425,Kaptain Obvious,447,FlyinRyan,1,3,289.48,303.2
+425,Kaptain Obvious,448,THE Squad,1,2,225.28,211.18
+425,Kaptain Obvious,449,Defending Champions,1,0,113.56,28.9
+425,Kaptain Obvious,453,PackAPunch,1,1,149.66,129.62
+425,Kaptain Obvious,454,Team20,1,0,91.56,73.48
+425,Kaptain Obvious,455,TD Man,0,2,177.22,203.88
+425,Kaptain Obvious,456,Mr McGibblets,1,0,82.92,36.64
+425,Kaptain Obvious,457,Val's,1,1,204.22,161.06
+425,Kaptain Obvious,458,Win EVeRY Time,1,0,122.52,77.96
+425,Kaptain Obvious,459,Coming Soon,1,0,68.8,61.6
+426,AWON BOYS,425,Kaptain Obvious,1,3,361.16,377.72
+426,AWON BOYS,427,Chasing Legacy,4,5,820.22,905.12
+426,AWON BOYS,428,kukere kings,2,5,582.96,627.54
+426,AWON BOYS,429,LumiToonz,1,5,393.34,556.52
+426,AWON BOYS,430,Knights of the Odell Republic,6,7,1200.54,1072.5
+426,AWON BOYS,431,Mark Alexander I,4,4,769.2,798.52
+426,AWON BOYS,432,Half Baked,3,4,612.48,768.88
+426,AWON BOYS,433,babyPanther,3,4,591.84,591.84
+426,AWON BOYS,434,Super Bears FC,5,7,1129.5,1121.62
+426,AWON BOYS,435,I Have No Team Name,2,1,249.06,236.58
+426,AWON BOYS,436,Drake's New Favorite Team,3,4,552.88,614.36
+426,AWON BOYS,437,Last Dance,2,2,368.98,354.72
+426,AWON BOYS,438,El Casamigos,3,1,385.28,281.28
+426,AWON BOYS,439,Team on ma back,2,4,619.48,622.1
+426,AWON BOYS,440,RedZone Junkie,1,2,223.6,258.96
+426,AWON BOYS,441,419ers,5,2,641.82,607.72
+426,AWON BOYS,442,I am JuJu,0,2,162.78,233.66
+426,AWON BOYS,443,Shivakamini Somakandarkram,0,3,275.66,321.38
+426,AWON BOYS,444,Tough City Bears,1,5,580.82,658.26
+426,AWON BOYS,445,SUDS,3,3,570.66,547.78
+426,AWON BOYS,446,Wanna be Startin Sutton,1,1,203.88,194.54
+426,AWON BOYS,447,FlyinRyan,1,1,150.36,168.08
+426,AWON BOYS,448,THE Squad,1,1,163.24,155.76
+426,AWON BOYS,451,stand-in standers,1,0,98.4,51.5
+426,AWON BOYS,453,PackAPunch,1,1,146.38,119.3
+426,AWON BOYS,455,TD Man,1,0,93.9,85.08
+426,AWON BOYS,456,Mr McGibblets,3,0,360.86,295.2
+426,AWON BOYS,458,Win EVeRY Time,1,0,126.9,59.2
+426,AWON BOYS,460,RedZone Junkies,0,1,83.18,148.04
+427,Chasing Legacy,425,Kaptain Obvious,5,2,766,580.48
+427,Chasing Legacy,426,AWON BOYS,5,4,905.12,820.22
+427,Chasing Legacy,428,kukere kings,3,3,579.8,527.84
+427,Chasing Legacy,429,LumiToonz,3,2,436.62,392.92
+427,Chasing Legacy,430,Knights of the Odell Republic,6,3,926.22,894.64
+427,Chasing Legacy,431,Mark Alexander I,4,3,771.94,667.62
+427,Chasing Legacy,432,Half Baked,3,3,535.06,545.24
+427,Chasing Legacy,433,babyPanther,5,2,713.9,641.3
+427,Chasing Legacy,434,Super Bears FC,5,4,844.32,785.28
+427,Chasing Legacy,435,I Have No Team Name,4,3,672.62,591.28
+427,Chasing Legacy,436,Drake's New Favorite Team,4,2,637.36,586.32
+427,Chasing Legacy,437,Last Dance,6,0,738.96,570.08
+427,Chasing Legacy,438,El Casamigos,3,0,309.52,233.96
+427,Chasing Legacy,439,Team on ma back,7,2,843.86,768.3
+427,Chasing Legacy,440,RedZone Junkie,4,2,585.72,549.86
+427,Chasing Legacy,441,419ers,2,4,550.48,588.8
+427,Chasing Legacy,442,I am JuJu,1,1,202.98,170.34
+427,Chasing Legacy,443,Shivakamini Somakandarkram,3,3,562.74,564.54
+427,Chasing Legacy,444,Tough City Bears,4,2,589.7,555.98
+427,Chasing Legacy,445,SUDS,1,1,209.52,190.76
+427,Chasing Legacy,446,Wanna be Startin Sutton,5,1,572.84,583.24
+427,Chasing Legacy,447,FlyinRyan,0,1,93.86,102.68
+427,Chasing Legacy,448,THE Squad,0,1,42.08,70.18
+427,Chasing Legacy,449,Defending Champions,1,0,144.6,105.38
+427,Chasing Legacy,452,cunning stunts,1,0,103.82,59.12
+427,Chasing Legacy,453,PackAPunch,0,1,86.68,101.24
+427,Chasing Legacy,454,Team20,0,1,78.72,94.74
+427,Chasing Legacy,456,Mr McGibblets,1,0,108.76,74
+427,Chasing Legacy,458,Win EVeRY Time,1,0,113.56,82.14
+427,Chasing Legacy,459,Coming Soon,1,0,93.2,77.8
+428,kukere kings,425,Kaptain Obvious,1,3,359.64,429.86
+428,kukere kings,426,AWON BOYS,5,2,627.54,582.96
+428,kukere kings,427,Chasing Legacy,3,3,527.84,579.8
+428,kukere kings,429,LumiToonz,7,3,864.14,886.24
+428,kukere kings,430,Knights of the Odell Republic,1,0,105.02,60.18
+428,kukere kings,431,Mark Alexander I,2,2,352.54,343.82
+428,kukere kings,432,Half Baked,3,4,619.76,599.24
+428,kukere kings,433,babyPanther,3,5,685.16,677.98
+428,kukere kings,434,Super Bears FC,1,0,106.98,103.32
+428,kukere kings,435,I Have No Team Name,4,3,759.58,612.06
+428,kukere kings,436,Drake's New Favorite Team,1,6,558.26,629.72
+428,kukere kings,437,Last Dance,3,2,542.52,549.24
+428,kukere kings,438,El Casamigos,0,2,170.28,219.84
+428,kukere kings,439,Team on ma back,1,3,410.68,359.54
+428,kukere kings,440,RedZone Junkie,2,6,641.16,814.3
+428,kukere kings,441,419ers,4,5,867.02,776.3
+428,kukere kings,442,I am JuJu,1,1,231.58,202.56
+428,kukere kings,443,Shivakamini Somakandarkram,1,4,419.76,521.06
+428,kukere kings,444,Tough City Bears,3,3,574.82,574.38
+428,kukere kings,445,SUDS,3,0,273.18,192.62
+428,kukere kings,446,Wanna be Startin Sutton,0,3,179.08,262.02
+428,kukere kings,447,FlyinRyan,0,2,181.38,280.56
+428,kukere kings,448,THE Squad,1,0,70.7,58
+428,kukere kings,449,Defending Champions,1,0,85.06,70.2
+428,kukere kings,450,Packattack1221,1,0,84.64,53.7
+428,kukere kings,451,stand-in standers,0,1,72.72,77.5
+428,kukere kings,452,cunning stunts,1,0,101.14,66.94
+428,kukere kings,453,PackAPunch,2,0,176.64,126.78
+428,kukere kings,454,Team20,1,1,143.22,152.06
+428,kukere kings,455,TD Man,0,1,88.58,91.92
+428,kukere kings,456,Mr McGibblets,0,2,123.66,212.08
+428,kukere kings,458,Win EVeRY Time,0,1,76.2,90.06
+428,kukere kings,459,Coming Soon,0,1,51.66,100.9
+428,kukere kings,460,RedZone Junkies,0,1,80.34,121.92
+429,LumiToonz,425,Kaptain Obvious,1,4,363.06,405.48
+429,LumiToonz,426,AWON BOYS,5,1,556.52,393.34
+429,LumiToonz,427,Chasing Legacy,2,3,392.92,436.62
+429,LumiToonz,428,kukere kings,3,7,886.24,864.14
+429,LumiToonz,430,Knights of the Odell Republic,2,3,410.56,456.18
+429,LumiToonz,431,Mark Alexander I,0,4,321.86,379.2
+429,LumiToonz,432,Half Baked,2,3,435.62,460.92
+429,LumiToonz,433,babyPanther,5,4,706.82,822.68
+429,LumiToonz,434,Super Bears FC,0,2,182.04,222
+429,LumiToonz,435,I Have No Team Name,4,2,549.12,515.52
+429,LumiToonz,437,Last Dance,0,3,224.32,323.34
+429,LumiToonz,438,El Casamigos,3,1,335.02,278.94
+429,LumiToonz,439,Team on ma back,1,2,264.74,309.7
+429,LumiToonz,440,RedZone Junkie,2,3,455.58,455.38
+429,LumiToonz,441,419ers,4,5,787.62,884.42
+429,LumiToonz,442,I am JuJu,2,1,334.9,292.28
+429,LumiToonz,443,Shivakamini Somakandarkram,1,0,101.04,78.2
+429,LumiToonz,444,Tough City Bears,3,2,386.7,376.72
+429,LumiToonz,445,SUDS,0,1,64.06,147.22
+429,LumiToonz,447,FlyinRyan,1,0,77.74,44.74
+429,LumiToonz,448,THE Squad,0,1,61.96,94.48
+429,LumiToonz,449,Defending Champions,0,1,38.9,87.28
+429,LumiToonz,450,Packattack1221,0,1,69.82,110.08
+429,LumiToonz,452,cunning stunts,1,0,90.7,64.3
+429,LumiToonz,453,PackAPunch,0,1,78.8,113.62
+429,LumiToonz,454,Team20,0,1,67.08,77.42
+430,Knights of the Odell Republic,425,Kaptain Obvious,3,2,487.38,482.68
+430,Knights of the Odell Republic,426,AWON BOYS,7,6,1072.5,1200.54
+430,Knights of the Odell Republic,427,Chasing Legacy,3,6,894.64,926.22
+430,Knights of the Odell Republic,428,kukere kings,0,1,60.18,105.02
+430,Knights of the Odell Republic,429,LumiToonz,3,2,456.18,410.56
+430,Knights of the Odell Republic,431,Mark Alexander I,2,2,395.52,404.3
+430,Knights of the Odell Republic,432,Half Baked,3,3,562.74,552.82
+430,Knights of the Odell Republic,433,babyPanther,4,2,576.78,450.02
+430,Knights of the Odell Republic,434,Super Bears FC,6,4,967,934.26
+430,Knights of the Odell Republic,435,I Have No Team Name,1,3,293.1,346.84
+430,Knights of the Odell Republic,436,Drake's New Favorite Team,4,4,684.16,742.54
+430,Knights of the Odell Republic,437,Last Dance,3,7,767.96,934.34
+430,Knights of the Odell Republic,438,El Casamigos,2,1,257.46,214.4
+430,Knights of the Odell Republic,439,Team on ma back,1,2,293.5,293.96
+430,Knights of the Odell Republic,440,RedZone Junkie,1,5,463.5,584.56
+430,Knights of the Odell Republic,441,419ers,2,6,667.84,798.14
+430,Knights of the Odell Republic,442,I am JuJu,0,5,444.54,503.44
+430,Knights of the Odell Republic,443,Shivakamini Somakandarkram,3,1,377.42,349.54
+430,Knights of the Odell Republic,444,Tough City Bears,3,2,504.8,454.04
+430,Knights of the Odell Republic,445,SUDS,2,4,574.42,613.84
+430,Knights of the Odell Republic,446,Wanna be Startin Sutton,1,2,290.3,320.86
+430,Knights of the Odell Republic,447,FlyinRyan,2,1,282.56,306.88
+430,Knights of the Odell Republic,448,THE Squad,0,1,79.02,88.9
+430,Knights of the Odell Republic,449,Defending Champions,1,0,66.7,52.66
+430,Knights of the Odell Republic,451,stand-in standers,1,0,87.66,27.8
+430,Knights of the Odell Republic,453,PackAPunch,0,3,177.36,228.06
+430,Knights of the Odell Republic,455,TD Man,1,0,158.04,144.78
+430,Knights of the Odell Republic,456,Mr McGibblets,1,2,290.78,314.1
+430,Knights of the Odell Republic,458,Win EVeRY Time,1,0,111.6,89.34
+430,Knights of the Odell Republic,460,RedZone Junkies,1,0,112.4,81.4
+431,Mark Alexander I,425,Kaptain Obvious,3,3,616.04,622.76
+431,Mark Alexander I,426,AWON BOYS,4,4,798.52,769.2
+431,Mark Alexander I,427,Chasing Legacy,3,4,667.62,771.94
+431,Mark Alexander I,428,kukere kings,2,2,343.82,352.54
+431,Mark Alexander I,429,LumiToonz,4,0,379.2,321.86
+431,Mark Alexander I,430,Knights of the Odell Republic,2,2,404.3,395.52
+431,Mark Alexander I,432,Half Baked,2,1,276.42,257.78
+431,Mark Alexander I,433,babyPanther,3,2,459.18,405.42
+431,Mark Alexander I,434,Super Bears FC,1,3,323.62,414.84
+431,Mark Alexander I,435,I Have No Team Name,2,2,360.18,364.34
+431,Mark Alexander I,436,Drake's New Favorite Team,2,0,226.18,189.6
+431,Mark Alexander I,437,Last Dance,2,5,745.42,780.18
+431,Mark Alexander I,438,El Casamigos,4,1,487.3,377.52
+431,Mark Alexander I,439,Team on ma back,6,5,1068.98,1016.48
+431,Mark Alexander I,440,RedZone Junkie,0,2,168.28,223.32
+431,Mark Alexander I,441,419ers,4,1,506.66,407.26
+431,Mark Alexander I,442,I am JuJu,2,0,205.76,150.9
+431,Mark Alexander I,443,Shivakamini Somakandarkram,1,5,525.38,652.68
+431,Mark Alexander I,444,Tough City Bears,3,4,650.4,655.76
+431,Mark Alexander I,445,SUDS,2,1,285.36,235.1
+431,Mark Alexander I,446,Wanna be Startin Sutton,4,2,638.9,558.14
+431,Mark Alexander I,447,FlyinRyan,1,0,88.38,83.98
+431,Mark Alexander I,456,Mr McGibblets,1,0,84.52,56.56
+431,Mark Alexander I,457,Val's,1,0,121.62,52.98
+431,Mark Alexander I,458,Win EVeRY Time,1,0,109.14,66.32
+431,Mark Alexander I,459,Coming Soon,1,0,98.36,91.9
+431,Mark Alexander I,460,RedZone Junkies,0,1,56.1,99.1
+432,Half Baked,425,Kaptain Obvious,6,4,1049.58,942.84
+432,Half Baked,426,AWON BOYS,4,3,768.88,612.48
+432,Half Baked,427,Chasing Legacy,3,3,545.24,535.06
+432,Half Baked,428,kukere kings,4,3,599.24,619.76
+432,Half Baked,429,LumiToonz,3,2,460.92,435.62
+432,Half Baked,430,Knights of the Odell Republic,3,3,552.82,562.74
+432,Half Baked,431,Mark Alexander I,1,2,257.78,276.42
+432,Half Baked,433,babyPanther,7,5,1213.82,1085.14
+432,Half Baked,434,Super Bears FC,2,4,615.14,681.56
+432,Half Baked,435,I Have No Team Name,1,2,281.66,270.5
+432,Half Baked,436,Drake's New Favorite Team,2,4,531.32,575.18
+432,Half Baked,437,Last Dance,2,4,515.3,614.02
+432,Half Baked,438,El Casamigos,3,5,683.46,705.62
+432,Half Baked,439,Team on ma back,2,3,409.18,451.48
+432,Half Baked,440,RedZone Junkie,2,4,604.84,632.48
+432,Half Baked,441,419ers,5,3,824,734.62
+432,Half Baked,442,I am JuJu,3,2,429.1,486.4
+432,Half Baked,443,Shivakamini Somakandarkram,1,3,290.82,373.24
+432,Half Baked,444,Tough City Bears,3,1,394.8,296.54
+432,Half Baked,445,SUDS,1,1,205.02,178.24
+432,Half Baked,446,Wanna be Startin Sutton,0,2,172.36,220.58
+432,Half Baked,447,FlyinRyan,4,0,457.44,367.28
+432,Half Baked,448,THE Squad,0,1,68.16,70.5
+432,Half Baked,449,Defending Champions,0,1,79.44,81.56
+432,Half Baked,450,Packattack1221,1,0,68.86,58.72
+432,Half Baked,452,cunning stunts,1,0,129.24,35.2
+432,Half Baked,453,PackAPunch,1,0,97.44,72.6
+432,Half Baked,454,Team20,2,0,205.18,159.46
+432,Half Baked,455,TD Man,1,2,322.18,365.82
+432,Half Baked,456,Mr McGibblets,1,0,131.7,62.96
+432,Half Baked,457,Val's,0,1,97.32,110.46
+432,Half Baked,459,Coming Soon,0,1,97.5,113.72
+432,Half Baked,460,RedZone Junkies,0,1,93.38,114.28
+433,babyPanther,425,Kaptain Obvious,5,7,1077.06,1130.38
+433,babyPanther,426,AWON BOYS,4,3,591.84,591.84
+433,babyPanther,427,Chasing Legacy,2,5,641.3,713.9
+433,babyPanther,428,kukere kings,5,3,677.98,685.16
+433,babyPanther,429,LumiToonz,4,5,822.68,706.82
+433,babyPanther,430,Knights of the Odell Republic,2,4,450.02,576.78
+433,babyPanther,431,Mark Alexander I,2,3,405.42,459.18
+433,babyPanther,432,Half Baked,5,7,1085.14,1213.82
+433,babyPanther,434,Super Bears FC,2,0,191.12,159.08
+433,babyPanther,435,I Have No Team Name,1,1,150.66,177.4
+433,babyPanther,436,Drake's New Favorite Team,0,2,117.44,173.78
+433,babyPanther,437,Last Dance,4,6,856.84,945.66
+433,babyPanther,438,El Casamigos,3,3,511.76,501.76
+433,babyPanther,439,Team on ma back,1,3,353.5,422.78
+433,babyPanther,440,RedZone Junkie,2,2,362.2,379.62
+433,babyPanther,441,419ers,4,3,589.1,570.2
+433,babyPanther,442,I am JuJu,3,4,664.7,701.86
+433,babyPanther,443,Shivakamini Somakandarkram,0,3,268.58,348.62
+433,babyPanther,444,Tough City Bears,3,2,406.06,378.78
+433,babyPanther,445,SUDS,2,1,246.44,269.66
+433,babyPanther,446,Wanna be Startin Sutton,0,2,180.6,206.42
+433,babyPanther,447,FlyinRyan,1,2,245.16,223.62
+433,babyPanther,448,THE Squad,1,0,77.34,66.08
+433,babyPanther,449,Defending Champions,1,0,58.4,57.2
+433,babyPanther,450,Packattack1221,1,0,91.34,66.12
+433,babyPanther,451,stand-in standers,1,0,105.34,57.8
+433,babyPanther,453,PackAPunch,1,0,106.04,73.6
+433,babyPanther,454,Team20,0,1,70.72,78.76
+433,babyPanther,455,TD Man,0,1,56.2,95.54
+433,babyPanther,456,Mr McGibblets,0,1,97.6,103.92
+433,babyPanther,457,Val's,0,2,137.08,205.16
+433,babyPanther,458,Win EVeRY Time,0,1,77.02,93.6
+433,babyPanther,459,Coming Soon,0,1,59.36,76.06
+433,babyPanther,460,RedZone Junkies,0,1,102.38,124.58
+434,Super Bears FC,425,Kaptain Obvious,4,3,695.38,540.94
+434,Super Bears FC,426,AWON BOYS,7,5,1121.62,1129.5
+434,Super Bears FC,427,Chasing Legacy,4,5,785.28,844.32
+434,Super Bears FC,428,kukere kings,0,1,103.32,106.98
+434,Super Bears FC,429,LumiToonz,2,0,222,182.04
+434,Super Bears FC,430,Knights of the Odell Republic,4,6,934.26,967
+434,Super Bears FC,431,Mark Alexander I,3,1,414.84,323.62
+434,Super Bears FC,432,Half Baked,4,2,681.56,615.14
+434,Super Bears FC,433,babyPanther,0,2,159.08,191.12
+434,Super Bears FC,435,I Have No Team Name,2,0,195.5,148.74
+434,Super Bears FC,436,Drake's New Favorite Team,1,5,498.46,632.42
+434,Super Bears FC,437,Last Dance,1,3,406.42,452.24
+434,Super Bears FC,438,El Casamigos,4,0,447.44,316.04
+434,Super Bears FC,439,Team on ma back,4,4,729.98,689.46
+434,Super Bears FC,440,RedZone Junkie,1,1,192.82,195.5
+434,Super Bears FC,441,419ers,3,1,428.74,386.46
+434,Super Bears FC,442,I am JuJu,2,0,143.46,132.54
+434,Super Bears FC,443,Shivakamini Somakandarkram,1,1,157.3,220.56
+434,Super Bears FC,444,Tough City Bears,3,2,428.32,416.3
+434,Super Bears FC,445,SUDS,3,3,557.84,539.7
+434,Super Bears FC,446,Wanna be Startin Sutton,2,2,429.08,398.68
+434,Super Bears FC,447,FlyinRyan,0,1,84.88,92.88
+434,Super Bears FC,454,Team20,0,1,93.3,99.94
+434,Super Bears FC,455,TD Man,1,1,205.4,239.8
+434,Super Bears FC,456,Mr McGibblets,1,2,164.94,269.38
+434,Super Bears FC,459,Coming Soon,0,1,104.98,118.38
+434,Super Bears FC,460,RedZone Junkies,1,0,99.42,75.3
+435,I Have No Team Name,425,Kaptain Obvious,3,1,408.06,366.6
+435,I Have No Team Name,426,AWON BOYS,1,2,236.58,249.06
+435,I Have No Team Name,427,Chasing Legacy,3,4,591.28,672.62
+435,I Have No Team Name,428,kukere kings,3,4,612.06,759.58
+435,I Have No Team Name,429,LumiToonz,2,4,515.52,549.12
+435,I Have No Team Name,430,Knights of the Odell Republic,3,1,346.84,293.1
+435,I Have No Team Name,431,Mark Alexander I,2,2,364.34,360.18
+435,I Have No Team Name,432,Half Baked,2,1,270.5,281.66
+435,I Have No Team Name,433,babyPanther,1,1,177.4,150.66
+435,I Have No Team Name,434,Super Bears FC,0,2,148.74,195.5
+435,I Have No Team Name,436,Drake's New Favorite Team,4,4,696.42,702.28
+435,I Have No Team Name,437,Last Dance,2,2,403.64,395.36
+435,I Have No Team Name,438,El Casamigos,1,1,183.64,136.88
+435,I Have No Team Name,439,Team on ma back,2,1,282.04,271.16
+435,I Have No Team Name,440,RedZone Junkie,2,5,612.14,628.1
+435,I Have No Team Name,441,419ers,5,5,916.24,902.46
+435,I Have No Team Name,442,I am JuJu,2,0,205.58,165.98
+435,I Have No Team Name,443,Shivakamini Somakandarkram,2,0,270.8,199.04
+435,I Have No Team Name,444,Tough City Bears,3,4,587.34,681.62
+435,I Have No Team Name,446,Wanna be Startin Sutton,1,1,185.46,181.82
+435,I Have No Team Name,447,FlyinRyan,2,1,274.88,261.48
+435,I Have No Team Name,448,THE Squad,1,2,272.72,258.1
+435,I Have No Team Name,449,Defending Champions,0,1,87.76,111.34
+435,I Have No Team Name,451,stand-in standers,1,0,92.36,65.7
+435,I Have No Team Name,453,PackAPunch,1,0,58.84,56.9
+436,Drake's New Favorite Team,425,Kaptain Obvious,4,2,537.3,515.04
+436,Drake's New Favorite Team,426,AWON BOYS,4,3,614.36,552.88
+436,Drake's New Favorite Team,427,Chasing Legacy,2,4,586.32,637.36
+436,Drake's New Favorite Team,428,kukere kings,6,1,629.72,558.26
+436,Drake's New Favorite Team,430,Knights of the Odell Republic,4,4,742.54,684.16
+436,Drake's New Favorite Team,431,Mark Alexander I,0,2,189.6,226.18
+436,Drake's New Favorite Team,432,Half Baked,4,2,575.18,531.32
+436,Drake's New Favorite Team,433,babyPanther,2,0,173.78,117.44
+436,Drake's New Favorite Team,434,Super Bears FC,5,1,632.42,498.46
+436,Drake's New Favorite Team,435,I Have No Team Name,4,4,702.28,696.42
+436,Drake's New Favorite Team,437,Last Dance,1,3,342.42,441.16
+436,Drake's New Favorite Team,439,Team on ma back,1,2,244.78,262.98
+436,Drake's New Favorite Team,440,RedZone Junkie,6,1,626.34,619.62
+436,Drake's New Favorite Team,441,419ers,1,2,264.06,301.18
+436,Drake's New Favorite Team,442,I am JuJu,1,1,190.16,217.72
+436,Drake's New Favorite Team,443,Shivakamini Somakandarkram,2,2,364.7,390.26
+436,Drake's New Favorite Team,444,Tough City Bears,3,1,464.56,366.2
+436,Drake's New Favorite Team,446,Wanna be Startin Sutton,0,1,74.5,118.74
+436,Drake's New Favorite Team,447,FlyinRyan,2,1,264.92,220.74
+436,Drake's New Favorite Team,448,THE Squad,2,1,265.16,199.04
+436,Drake's New Favorite Team,449,Defending Champions,1,0,93.36,64.02
+436,Drake's New Favorite Team,451,stand-in standers,0,1,74.2,82.4
+436,Drake's New Favorite Team,453,PackAPunch,2,0,156.28,135.06
+436,Drake's New Favorite Team,454,Team20,2,0,249.56,188.28
+437,Last Dance,425,Kaptain Obvious,4,4,761.06,754.58
+437,Last Dance,426,AWON BOYS,2,2,354.72,368.98
+437,Last Dance,427,Chasing Legacy,0,6,570.08,738.96
+437,Last Dance,428,kukere kings,2,3,549.24,542.52
+437,Last Dance,429,LumiToonz,3,0,323.34,224.32
+437,Last Dance,430,Knights of the Odell Republic,7,3,934.34,767.96
+437,Last Dance,431,Mark Alexander I,5,2,780.18,745.42
+437,Last Dance,432,Half Baked,4,2,614.02,515.3
+437,Last Dance,433,babyPanther,6,4,945.66,856.84
+437,Last Dance,434,Super Bears FC,3,1,452.24,406.42
+437,Last Dance,435,I Have No Team Name,2,2,395.36,403.64
+437,Last Dance,436,Drake's New Favorite Team,3,1,441.16,342.42
+437,Last Dance,438,El Casamigos,4,1,497.04,417.92
+437,Last Dance,439,Team on ma back,4,4,715.12,780.02
+437,Last Dance,440,RedZone Junkie,5,2,662.42,702.92
+437,Last Dance,441,419ers,7,4,1079.26,1029.98
+437,Last Dance,442,I am JuJu,2,2,350.86,399.04
+437,Last Dance,443,Shivakamini Somakandarkram,5,3,885.94,857.74
+437,Last Dance,444,Tough City Bears,3,3,565.18,487.88
+437,Last Dance,445,SUDS,1,1,179.44,165.72
+437,Last Dance,446,Wanna be Startin Sutton,1,0,135.42,95.64
+437,Last Dance,447,FlyinRyan,2,1,284.82,200.22
+437,Last Dance,448,THE Squad,1,1,139.46,154.9
+437,Last Dance,451,stand-in standers,1,0,136.78,63.8
+437,Last Dance,453,PackAPunch,1,1,185.62,160.62
+437,Last Dance,455,TD Man,0,2,186.68,240.16
+437,Last Dance,456,Mr McGibblets,0,1,97.02,117.82
+437,Last Dance,457,Val's,1,1,191.18,135.62
+437,Last Dance,458,Win EVeRY Time,1,0,135.42,115.34
+437,Last Dance,459,Coming Soon,0,1,108.18,148.2
+437,Last Dance,460,RedZone Junkies,1,0,100.14,79.62
+438,El Casamigos,425,Kaptain Obvious,6,2,741.22,627.52
+438,El Casamigos,426,AWON BOYS,1,3,281.28,385.28
+438,El Casamigos,427,Chasing Legacy,0,3,233.96,309.52
+438,El Casamigos,428,kukere kings,2,0,219.84,170.28
+438,El Casamigos,429,LumiToonz,1,3,278.94,335.02
+438,El Casamigos,430,Knights of the Odell Republic,1,2,214.4,257.46
+438,El Casamigos,431,Mark Alexander I,1,4,377.52,487.3
+438,El Casamigos,432,Half Baked,5,3,705.62,683.46
+438,El Casamigos,433,babyPanther,3,3,501.76,511.76
+438,El Casamigos,434,Super Bears FC,0,4,316.04,447.44
+438,El Casamigos,435,I Have No Team Name,1,1,136.88,183.64
+438,El Casamigos,437,Last Dance,1,4,417.92,497.04
+438,El Casamigos,439,Team on ma back,0,3,296.5,336.7
+438,El Casamigos,440,RedZone Junkie,0,2,155.94,263.82
+438,El Casamigos,441,419ers,2,1,339.88,287.42
+438,El Casamigos,442,I am JuJu,1,3,338.68,406.26
+438,El Casamigos,443,Shivakamini Somakandarkram,1,3,317.66,415.42
+438,El Casamigos,444,Tough City Bears,1,4,361.8,421.56
+438,El Casamigos,447,FlyinRyan,0,2,148.2,199.16
+438,El Casamigos,450,Packattack1221,2,0,178.56,126.84
+438,El Casamigos,452,cunning stunts,2,0,198.8,92.94
+438,El Casamigos,455,TD Man,1,1,207.64,197.38
+438,El Casamigos,457,Val's,1,0,105.42,89.12
+439,Team on ma back,425,Kaptain Obvious,3,4,627.28,637.74
+439,Team on ma back,426,AWON BOYS,4,2,622.1,619.48
+439,Team on ma back,427,Chasing Legacy,2,7,768.3,843.86
+439,Team on ma back,428,kukere kings,3,1,359.54,410.68
+439,Team on ma back,429,LumiToonz,2,1,309.7,264.74
+439,Team on ma back,430,Knights of the Odell Republic,2,1,293.96,293.5
+439,Team on ma back,431,Mark Alexander I,5,6,1016.48,1068.98
+439,Team on ma back,432,Half Baked,3,2,451.48,409.18
+439,Team on ma back,433,babyPanther,3,1,422.78,353.5
+439,Team on ma back,434,Super Bears FC,4,4,689.46,729.98
+439,Team on ma back,435,I Have No Team Name,1,2,271.16,282.04
+439,Team on ma back,436,Drake's New Favorite Team,2,1,262.98,244.78
+439,Team on ma back,437,Last Dance,4,4,780.02,715.12
+439,Team on ma back,438,El Casamigos,3,0,336.7,296.5
+439,Team on ma back,440,RedZone Junkie,3,2,480.56,482.14
+439,Team on ma back,441,419ers,2,2,383.64,387.1
+439,Team on ma back,442,I am JuJu,1,2,294.9,326.06
+439,Team on ma back,443,Shivakamini Somakandarkram,2,3,483.62,523.72
+439,Team on ma back,444,Tough City Bears,3,2,413.48,442.48
+439,Team on ma back,445,SUDS,1,2,264.94,270.3
+439,Team on ma back,446,Wanna be Startin Sutton,2,3,427.12,494.02
+439,Team on ma back,447,FlyinRyan,1,0,91.18,81.44
+439,Team on ma back,448,THE Squad,1,0,92.58,66.22
+439,Team on ma back,451,stand-in standers,1,0,124.28,42.9
+439,Team on ma back,456,Mr McGibblets,0,1,69.42,80.42
+440,RedZone Junkie,425,Kaptain Obvious,1,2,253.68,299.48
+440,RedZone Junkie,426,AWON BOYS,2,1,258.96,223.6
+440,RedZone Junkie,427,Chasing Legacy,2,4,549.86,585.72
+440,RedZone Junkie,428,kukere kings,6,2,814.3,641.16
+440,RedZone Junkie,429,LumiToonz,3,2,455.38,455.58
+440,RedZone Junkie,430,Knights of the Odell Republic,5,1,584.56,463.5
+440,RedZone Junkie,431,Mark Alexander I,2,0,223.32,168.28
+440,RedZone Junkie,432,Half Baked,4,2,632.48,604.84
+440,RedZone Junkie,433,babyPanther,2,2,379.62,362.2
+440,RedZone Junkie,434,Super Bears FC,1,1,195.5,192.82
+440,RedZone Junkie,435,I Have No Team Name,5,2,628.1,612.14
+440,RedZone Junkie,436,Drake's New Favorite Team,1,6,619.62,626.34
+440,RedZone Junkie,437,Last Dance,2,5,702.92,662.42
+440,RedZone Junkie,438,El Casamigos,2,0,263.82,155.94
+440,RedZone Junkie,439,Team on ma back,2,3,482.14,480.56
+440,RedZone Junkie,441,419ers,5,4,824.12,761.74
+440,RedZone Junkie,442,I am JuJu,1,3,390.36,398.32
+440,RedZone Junkie,444,Tough City Bears,1,0,126.92,102.44
+440,RedZone Junkie,445,SUDS,1,0,114.24,106.28
+440,RedZone Junkie,446,Wanna be Startin Sutton,0,1,95.22,118
+440,RedZone Junkie,447,FlyinRyan,2,0,270.16,93.54
+440,RedZone Junkie,454,Team20,1,1,147.4,135.86
+440,RedZone Junkie,455,TD Man,1,1,204.06,219.18
+440,RedZone Junkie,456,Mr McGibblets,0,1,103.82,110.82
+440,RedZone Junkie,457,Val's,1,0,80.2,73.7
+441,419ers,425,Kaptain Obvious,3,5,654.56,706.98
+441,419ers,426,AWON BOYS,2,5,607.72,641.82
+441,419ers,427,Chasing Legacy,4,2,588.8,550.48
+441,419ers,428,kukere kings,5,4,776.3,867.02
+441,419ers,429,LumiToonz,5,4,884.42,787.62
+441,419ers,430,Knights of the Odell Republic,6,2,798.14,667.84
+441,419ers,431,Mark Alexander I,1,4,407.26,506.66
+441,419ers,432,Half Baked,3,5,734.62,824
+441,419ers,433,babyPanther,3,4,570.2,589.1
+441,419ers,434,Super Bears FC,1,3,386.46,428.74
+441,419ers,435,I Have No Team Name,5,5,902.46,916.24
+441,419ers,436,Drake's New Favorite Team,2,1,301.18,264.06
+441,419ers,437,Last Dance,4,7,1029.98,1079.26
+441,419ers,438,El Casamigos,1,2,287.42,339.88
+441,419ers,439,Team on ma back,2,2,387.1,383.64
+441,419ers,440,RedZone Junkie,4,5,761.74,824.12
+441,419ers,443,Shivakamini Somakandarkram,2,2,417.74,463.5
+441,419ers,444,Tough City Bears,1,2,244.3,290.86
+441,419ers,445,SUDS,1,1,179.7,150.24
+441,419ers,446,Wanna be Startin Sutton,1,2,256.98,286.88
+441,419ers,447,FlyinRyan,1,2,258.18,262.28
+441,419ers,448,THE Squad,1,1,240.06,171.2
+441,419ers,452,cunning stunts,0,1,76.6,83.2
+441,419ers,453,PackAPunch,3,0,311.94,214.54
+441,419ers,455,TD Man,0,2,158.36,221.5
+441,419ers,456,Mr McGibblets,1,0,83.66,73.36
+441,419ers,457,Val's,1,1,186.4,154.28
+441,419ers,458,Win EVeRY Time,0,1,86.54,134.18
+441,419ers,460,RedZone Junkies,0,1,60.82,87.74
+442,I am JuJu,425,Kaptain Obvious,4,1,454.3,396.76
+442,I am JuJu,426,AWON BOYS,2,0,233.66,162.78
+442,I am JuJu,427,Chasing Legacy,1,1,170.34,202.98
+442,I am JuJu,428,kukere kings,1,1,202.56,231.58
+442,I am JuJu,429,LumiToonz,1,2,292.28,334.9
+442,I am JuJu,430,Knights of the Odell Republic,5,0,503.44,444.54
+442,I am JuJu,431,Mark Alexander I,0,2,150.9,205.76
+442,I am JuJu,432,Half Baked,2,3,486.4,429.1
+442,I am JuJu,433,babyPanther,4,3,701.86,664.7
+442,I am JuJu,434,Super Bears FC,0,2,132.54,143.46
+442,I am JuJu,435,I Have No Team Name,0,2,165.98,205.58
+442,I am JuJu,436,Drake's New Favorite Team,1,1,217.72,190.16
+442,I am JuJu,437,Last Dance,2,2,399.04,350.86
+442,I am JuJu,438,El Casamigos,3,1,406.26,338.68
+442,I am JuJu,439,Team on ma back,2,1,326.06,294.9
+442,I am JuJu,440,RedZone Junkie,3,1,398.32,390.36
+442,I am JuJu,443,Shivakamini Somakandarkram,0,2,156.04,215.62
+443,Shivakamini Somakandarkram,425,Kaptain Obvious,2,2,328.4,339.46
+443,Shivakamini Somakandarkram,426,AWON BOYS,3,0,321.38,275.66
+443,Shivakamini Somakandarkram,427,Chasing Legacy,3,3,564.54,562.74
+443,Shivakamini Somakandarkram,428,kukere kings,4,1,521.06,419.76
+443,Shivakamini Somakandarkram,429,LumiToonz,0,1,78.2,101.04
+443,Shivakamini Somakandarkram,430,Knights of the Odell Republic,1,3,349.54,377.42
+443,Shivakamini Somakandarkram,431,Mark Alexander I,5,1,652.68,525.38
+443,Shivakamini Somakandarkram,432,Half Baked,3,1,373.24,290.82
+443,Shivakamini Somakandarkram,433,babyPanther,3,0,348.62,268.58
+443,Shivakamini Somakandarkram,434,Super Bears FC,1,1,220.56,157.3
+443,Shivakamini Somakandarkram,435,I Have No Team Name,0,2,199.04,270.8
+443,Shivakamini Somakandarkram,436,Drake's New Favorite Team,2,2,390.26,364.7
+443,Shivakamini Somakandarkram,437,Last Dance,3,5,857.74,885.94
+443,Shivakamini Somakandarkram,438,El Casamigos,3,1,415.42,317.66
+443,Shivakamini Somakandarkram,439,Team on ma back,3,2,523.72,483.62
+443,Shivakamini Somakandarkram,441,419ers,2,2,463.5,417.74
+443,Shivakamini Somakandarkram,442,I am JuJu,2,0,215.62,156.04
+443,Shivakamini Somakandarkram,444,Tough City Bears,6,3,914.96,843.38
+443,Shivakamini Somakandarkram,447,FlyinRyan,0,1,62.76,111.1
+443,Shivakamini Somakandarkram,449,Defending Champions,1,0,83.02,64.1
+443,Shivakamini Somakandarkram,450,Packattack1221,2,0,185.98,135.7
+443,Shivakamini Somakandarkram,451,stand-in standers,1,0,110.58,56.5
+443,Shivakamini Somakandarkram,452,cunning stunts,2,0,247,146.98
+443,Shivakamini Somakandarkram,453,PackAPunch,1,0,92.02,60.36
+444,Tough City Bears,425,Kaptain Obvious,3,2,490,442.04
+444,Tough City Bears,426,AWON BOYS,5,1,658.26,580.82
+444,Tough City Bears,427,Chasing Legacy,2,4,555.98,589.7
+444,Tough City Bears,428,kukere kings,3,3,574.38,574.82
+444,Tough City Bears,429,LumiToonz,2,3,376.72,386.7
+444,Tough City Bears,430,Knights of the Odell Republic,2,3,454.04,504.8
+444,Tough City Bears,431,Mark Alexander I,4,3,655.76,650.4
+444,Tough City Bears,432,Half Baked,1,3,296.54,394.8
+444,Tough City Bears,433,babyPanther,2,3,378.78,406.06
+444,Tough City Bears,434,Super Bears FC,2,3,416.3,428.32
+444,Tough City Bears,435,I Have No Team Name,4,3,681.62,587.34
+444,Tough City Bears,436,Drake's New Favorite Team,1,3,366.2,464.56
+444,Tough City Bears,437,Last Dance,3,3,487.88,565.18
+444,Tough City Bears,438,El Casamigos,4,1,421.56,361.8
+444,Tough City Bears,439,Team on ma back,2,3,442.48,413.48
+444,Tough City Bears,440,RedZone Junkie,0,1,102.44,126.92
+444,Tough City Bears,441,419ers,2,1,290.86,244.3
+444,Tough City Bears,443,Shivakamini Somakandarkram,3,6,843.38,914.96
+444,Tough City Bears,445,SUDS,1,2,252.74,269.68
+444,Tough City Bears,446,Wanna be Startin Sutton,0,2,140.02,205.22
+444,Tough City Bears,447,FlyinRyan,0,2,152.42,181.98
+444,Tough City Bears,449,Defending Champions,1,0,88.12,46.82
+444,Tough City Bears,450,Packattack1221,2,0,144.68,95.1
+444,Tough City Bears,451,stand-in standers,0,1,53.4,82.84
+444,Tough City Bears,452,cunning stunts,2,0,162.38,92.14
+444,Tough City Bears,453,PackAPunch,0,1,20.54,86.14
+444,Tough City Bears,455,TD Man,0,1,91.22,100.46
+444,Tough City Bears,456,Mr McGibblets,0,1,72.04,86.92
+444,Tough City Bears,458,Win EVeRY Time,0,1,90.1,125.24
+444,Tough City Bears,460,RedZone Junkies,0,1,66.72,118.36
+445,SUDS,425,Kaptain Obvious,1,1,230.72,169.96
+445,SUDS,426,AWON BOYS,3,3,547.78,570.66
+445,SUDS,427,Chasing Legacy,1,1,190.76,209.52
+445,SUDS,428,kukere kings,0,3,192.62,273.18
+445,SUDS,429,LumiToonz,1,0,147.22,64.06
+445,SUDS,430,Knights of the Odell Republic,4,2,613.84,574.42
+445,SUDS,431,Mark Alexander I,1,2,235.1,285.36
+445,SUDS,432,Half Baked,1,1,178.24,205.02
+445,SUDS,433,babyPanther,1,2,269.66,246.44
+445,SUDS,434,Super Bears FC,3,3,539.7,557.84
+445,SUDS,437,Last Dance,1,1,165.72,179.44
+445,SUDS,439,Team on ma back,2,1,270.3,264.94
+445,SUDS,440,RedZone Junkie,0,1,106.28,114.24
+445,SUDS,441,419ers,1,1,150.24,179.7
+445,SUDS,444,Tough City Bears,2,1,269.68,252.74
+445,SUDS,446,Wanna be Startin Sutton,3,1,458.24,421.7
+445,SUDS,447,FlyinRyan,1,0,108.44,92.02
+445,SUDS,455,TD Man,1,0,73.48,65.36
+445,SUDS,456,Mr McGibblets,2,0,211.96,169.2
+445,SUDS,458,Win EVeRY Time,0,1,110.16,118.34
+445,SUDS,459,Coming Soon,1,0,97.12,80.66
+446,Wanna be Startin Sutton,425,Kaptain Obvious,1,0,113.48,98.92
+446,Wanna be Startin Sutton,426,AWON BOYS,1,1,194.54,203.88
+446,Wanna be Startin Sutton,427,Chasing Legacy,1,5,583.24,572.84
+446,Wanna be Startin Sutton,428,kukere kings,3,0,262.02,179.08
+446,Wanna be Startin Sutton,430,Knights of the Odell Republic,2,1,320.86,290.3
+446,Wanna be Startin Sutton,431,Mark Alexander I,2,4,558.14,638.9
+446,Wanna be Startin Sutton,432,Half Baked,2,0,220.58,172.36
+446,Wanna be Startin Sutton,433,babyPanther,2,0,206.42,180.6
+446,Wanna be Startin Sutton,434,Super Bears FC,2,2,398.68,429.08
+446,Wanna be Startin Sutton,435,I Have No Team Name,1,1,181.82,185.46
+446,Wanna be Startin Sutton,436,Drake's New Favorite Team,1,0,118.74,74.5
+446,Wanna be Startin Sutton,437,Last Dance,0,1,95.64,135.42
+446,Wanna be Startin Sutton,439,Team on ma back,3,2,494.02,427.12
+446,Wanna be Startin Sutton,440,RedZone Junkie,1,0,118,95.22
+446,Wanna be Startin Sutton,441,419ers,2,1,286.88,256.98
+446,Wanna be Startin Sutton,444,Tough City Bears,2,0,205.22,140.02
+446,Wanna be Startin Sutton,445,SUDS,1,3,421.7,458.24
+446,Wanna be Startin Sutton,447,FlyinRyan,0,1,72.82,141.36
+446,Wanna be Startin Sutton,454,Team20,1,0,116.32,71.8
+446,Wanna be Startin Sutton,455,TD Man,1,0,125.06,89.3
+446,Wanna be Startin Sutton,456,Mr McGibblets,1,1,169.46,179.8
+446,Wanna be Startin Sutton,458,Win EVeRY Time,0,1,82.2,92.82
+446,Wanna be Startin Sutton,460,RedZone Junkies,0,1,74.84,124.04
+447,FlyinRyan,425,Kaptain Obvious,3,1,303.2,289.48
+447,FlyinRyan,426,AWON BOYS,1,1,168.08,150.36
+447,FlyinRyan,427,Chasing Legacy,1,0,102.68,93.86
+447,FlyinRyan,428,kukere kings,2,0,280.56,181.38
+447,FlyinRyan,429,LumiToonz,0,1,44.74,77.74
+447,FlyinRyan,430,Knights of the Odell Republic,1,2,306.88,282.56
+447,FlyinRyan,431,Mark Alexander I,0,1,83.98,88.38
+447,FlyinRyan,432,Half Baked,0,4,367.28,457.44
+447,FlyinRyan,433,babyPanther,2,1,223.62,245.16
+447,FlyinRyan,434,Super Bears FC,1,0,92.88,84.88
+447,FlyinRyan,435,I Have No Team Name,1,2,261.48,274.88
+447,FlyinRyan,436,Drake's New Favorite Team,1,2,220.74,264.92
+447,FlyinRyan,437,Last Dance,1,2,200.22,284.82
+447,FlyinRyan,438,El Casamigos,2,0,199.16,148.2
+447,FlyinRyan,439,Team on ma back,0,1,81.44,91.18
+447,FlyinRyan,440,RedZone Junkie,0,2,93.54,270.16
+447,FlyinRyan,441,419ers,2,1,262.28,258.18
+447,FlyinRyan,443,Shivakamini Somakandarkram,1,0,111.1,62.76
+447,FlyinRyan,444,Tough City Bears,2,0,181.98,152.42
+447,FlyinRyan,445,SUDS,0,1,92.02,108.44
+447,FlyinRyan,446,Wanna be Startin Sutton,1,0,141.36,72.82
+447,FlyinRyan,448,THE Squad,1,2,204.98,244.18
+447,FlyinRyan,449,Defending Champions,1,0,80.08,60.08
+447,FlyinRyan,451,stand-in standers,1,0,65.44,63.7
+447,FlyinRyan,452,cunning stunts,1,0,52.3,41.1
+447,FlyinRyan,453,PackAPunch,1,0,62.6,58.46
+447,FlyinRyan,455,TD Man,0,2,178.74,234.72
+447,FlyinRyan,457,Val's,0,1,69.78,104.9
+447,FlyinRyan,458,Win EVeRY Time,0,1,67.3,131.7
+447,FlyinRyan,459,Coming Soon,1,0,151.14,82.8
+448,THE Squad,425,Kaptain Obvious,2,1,211.18,225.28
+448,THE Squad,426,AWON BOYS,1,1,155.76,163.24
+448,THE Squad,427,Chasing Legacy,1,0,70.18,42.08
+448,THE Squad,428,kukere kings,0,1,58,70.7
+448,THE Squad,429,LumiToonz,1,0,94.48,61.96
+448,THE Squad,430,Knights of the Odell Republic,1,0,88.9,79.02
+448,THE Squad,432,Half Baked,1,0,70.5,68.16
+448,THE Squad,433,babyPanther,0,1,66.08,77.34
+448,THE Squad,435,I Have No Team Name,2,1,258.1,272.72
+448,THE Squad,436,Drake's New Favorite Team,1,2,199.04,265.16
+448,THE Squad,437,Last Dance,1,1,154.9,139.46
+448,THE Squad,439,Team on ma back,0,1,66.22,92.58
+448,THE Squad,441,419ers,1,1,171.2,240.06
+448,THE Squad,447,FlyinRyan,2,1,244.18,204.98
+448,THE Squad,450,Packattack1221,0,1,82.64,104.3
+448,THE Squad,451,stand-in standers,1,0,68.56,36.4
+448,THE Squad,453,PackAPunch,0,1,91.68,102.74
+449,Defending Champions,425,Kaptain Obvious,0,1,28.9,113.56
+449,Defending Champions,427,Chasing Legacy,0,1,105.38,144.6
+449,Defending Champions,428,kukere kings,0,1,70.2,85.06
+449,Defending Champions,429,LumiToonz,1,0,87.28,38.9
+449,Defending Champions,430,Knights of the Odell Republic,0,1,52.66,66.7
+449,Defending Champions,432,Half Baked,1,0,81.56,79.44
+449,Defending Champions,433,babyPanther,0,1,57.2,58.4
+449,Defending Champions,435,I Have No Team Name,1,0,111.34,87.76
+449,Defending Champions,436,Drake's New Favorite Team,0,1,64.02,93.36
+449,Defending Champions,443,Shivakamini Somakandarkram,0,1,64.1,83.02
+449,Defending Champions,444,Tough City Bears,0,1,46.82,88.12
+449,Defending Champions,447,FlyinRyan,0,1,60.08,80.08
+449,Defending Champions,451,stand-in standers,0,1,76.78,83.8
+449,Defending Champions,453,PackAPunch,1,0,84.8,60.06
+450,Packattack1221,428,kukere kings,0,1,53.7,84.64
+450,Packattack1221,429,LumiToonz,1,0,110.08,69.82
+450,Packattack1221,432,Half Baked,0,1,58.72,68.86
+450,Packattack1221,433,babyPanther,0,1,66.12,91.34
+450,Packattack1221,438,El Casamigos,0,2,126.84,178.56
+450,Packattack1221,443,Shivakamini Somakandarkram,0,2,135.7,185.98
+450,Packattack1221,444,Tough City Bears,0,2,95.1,144.68
+450,Packattack1221,448,THE Squad,1,0,104.3,82.64
+450,Packattack1221,452,cunning stunts,1,1,170.64,77.8
+450,Packattack1221,453,PackAPunch,1,0,98.2,85.42
+451,stand-in standers,426,AWON BOYS,0,1,51.5,98.4
+451,stand-in standers,428,kukere kings,1,0,77.5,72.72
+451,stand-in standers,430,Knights of the Odell Republic,0,1,27.8,87.66
+451,stand-in standers,433,babyPanther,0,1,57.8,105.34
+451,stand-in standers,435,I Have No Team Name,0,1,65.7,92.36
+451,stand-in standers,436,Drake's New Favorite Team,1,0,82.4,74.2
+451,stand-in standers,437,Last Dance,0,1,63.8,136.78
+451,stand-in standers,439,Team on ma back,0,1,42.9,124.28
+451,stand-in standers,443,Shivakamini Somakandarkram,0,1,56.5,110.58
+451,stand-in standers,444,Tough City Bears,1,0,82.84,53.4
+451,stand-in standers,447,FlyinRyan,0,1,63.7,65.44
+451,stand-in standers,448,THE Squad,0,1,36.4,68.56
+451,stand-in standers,449,Defending Champions,1,0,83.8,76.78
+451,stand-in standers,453,PackAPunch,1,0,38.1,30.22
+452,cunning stunts,427,Chasing Legacy,0,1,59.12,103.82
+452,cunning stunts,428,kukere kings,0,1,66.94,101.14
+452,cunning stunts,429,LumiToonz,0,1,64.3,90.7
+452,cunning stunts,432,Half Baked,0,1,35.2,129.24
+452,cunning stunts,438,El Casamigos,0,2,92.94,198.8
+452,cunning stunts,441,419ers,1,0,83.2,76.6
+452,cunning stunts,443,Shivakamini Somakandarkram,0,2,146.98,247
+452,cunning stunts,444,Tough City Bears,0,2,92.14,162.38
+452,cunning stunts,447,FlyinRyan,0,1,41.1,52.3
+452,cunning stunts,450,Packattack1221,1,1,77.8,170.64
+453,PackAPunch,425,Kaptain Obvious,1,1,129.62,149.66
+453,PackAPunch,426,AWON BOYS,1,1,119.3,146.38
+453,PackAPunch,427,Chasing Legacy,1,0,101.24,86.68
+453,PackAPunch,428,kukere kings,0,2,126.78,176.64
+453,PackAPunch,429,LumiToonz,1,0,113.62,78.8
+453,PackAPunch,430,Knights of the Odell Republic,3,0,228.06,177.36
+453,PackAPunch,432,Half Baked,0,1,72.6,97.44
+453,PackAPunch,433,babyPanther,0,1,73.6,106.04
+453,PackAPunch,435,I Have No Team Name,0,1,56.9,58.84
+453,PackAPunch,436,Drake's New Favorite Team,0,2,135.06,156.28
+453,PackAPunch,437,Last Dance,1,1,160.62,185.62
+453,PackAPunch,441,419ers,0,3,214.54,311.94
+453,PackAPunch,443,Shivakamini Somakandarkram,0,1,60.36,92.02
+453,PackAPunch,444,Tough City Bears,1,0,86.14,20.54
+453,PackAPunch,447,FlyinRyan,0,1,58.46,62.6
+453,PackAPunch,448,THE Squad,1,0,102.74,91.68
+453,PackAPunch,449,Defending Champions,0,1,60.06,84.8
+453,PackAPunch,450,Packattack1221,0,1,85.42,98.2
+453,PackAPunch,451,stand-in standers,0,1,30.22,38.1
+454,Team20,425,Kaptain Obvious,0,1,73.48,91.56
+454,Team20,427,Chasing Legacy,1,0,94.74,78.72
+454,Team20,428,kukere kings,1,1,152.06,143.22
+454,Team20,429,LumiToonz,1,0,77.42,67.08
+454,Team20,432,Half Baked,0,2,159.46,205.18
+454,Team20,433,babyPanther,1,0,78.76,70.72
+454,Team20,434,Super Bears FC,1,0,99.94,93.3
+454,Team20,436,Drake's New Favorite Team,0,2,188.28,249.56
+454,Team20,440,RedZone Junkie,1,1,135.86,147.4
+454,Team20,446,Wanna be Startin Sutton,0,1,71.8,116.32
+455,TD Man,425,Kaptain Obvious,2,0,203.88,177.22
+455,TD Man,426,AWON BOYS,0,1,85.08,93.9
+455,TD Man,428,kukere kings,1,0,91.92,88.58
+455,TD Man,430,Knights of the Odell Republic,0,1,144.78,158.04
+455,TD Man,432,Half Baked,2,1,365.82,322.18
+455,TD Man,433,babyPanther,1,0,95.54,56.2
+455,TD Man,434,Super Bears FC,1,1,239.8,205.4
+455,TD Man,437,Last Dance,2,0,240.16,186.68
+455,TD Man,438,El Casamigos,1,1,197.38,207.64
+455,TD Man,440,RedZone Junkie,1,1,219.18,204.06
+455,TD Man,441,419ers,2,0,221.5,158.36
+455,TD Man,444,Tough City Bears,1,0,100.46,91.22
+455,TD Man,445,SUDS,0,1,65.36,73.48
+455,TD Man,446,Wanna be Startin Sutton,0,1,89.3,125.06
+455,TD Man,447,FlyinRyan,2,0,234.72,178.74
+455,TD Man,456,Mr McGibblets,1,0,102.34,94.26
+455,TD Man,457,Val's,1,0,79.42,50
+455,TD Man,459,Coming Soon,1,0,119.56,110.64
+455,TD Man,460,RedZone Junkies,0,1,71.72,100
+456,Mr McGibblets,425,Kaptain Obvious,0,1,36.64,82.92
+456,Mr McGibblets,426,AWON BOYS,0,3,295.2,360.86
+456,Mr McGibblets,427,Chasing Legacy,0,1,74,108.76
+456,Mr McGibblets,428,kukere kings,2,0,212.08,123.66
+456,Mr McGibblets,430,Knights of the Odell Republic,2,1,314.1,290.78
+456,Mr McGibblets,431,Mark Alexander I,0,1,56.56,84.52
+456,Mr McGibblets,432,Half Baked,0,1,62.96,131.7
+456,Mr McGibblets,433,babyPanther,1,0,103.92,97.6
+456,Mr McGibblets,434,Super Bears FC,2,1,269.38,164.94
+456,Mr McGibblets,437,Last Dance,1,0,117.82,97.02
+456,Mr McGibblets,439,Team on ma back,1,0,80.42,69.42
+456,Mr McGibblets,440,RedZone Junkie,1,0,110.82,103.82
+456,Mr McGibblets,441,419ers,0,1,73.36,83.66
+456,Mr McGibblets,444,Tough City Bears,1,0,86.92,72.04
+456,Mr McGibblets,445,SUDS,0,2,169.2,211.96
+456,Mr McGibblets,446,Wanna be Startin Sutton,1,1,179.8,169.46
+456,Mr McGibblets,455,TD Man,0,1,94.26,102.34
+456,Mr McGibblets,459,Coming Soon,1,0,108.36,100.6
+456,Mr McGibblets,460,RedZone Junkies,1,0,66.3,56.38
+457,Val's,425,Kaptain Obvious,1,1,161.06,204.22
+457,Val's,431,Mark Alexander I,0,1,52.98,121.62
+457,Val's,432,Half Baked,1,0,110.46,97.32
+457,Val's,433,babyPanther,2,0,205.16,137.08
+457,Val's,437,Last Dance,1,1,135.62,191.18
+457,Val's,438,El Casamigos,0,1,89.12,105.42
+457,Val's,440,RedZone Junkie,0,1,73.7,80.2
+457,Val's,441,419ers,1,1,154.28,186.4
+457,Val's,447,FlyinRyan,1,0,104.9,69.78
+457,Val's,455,TD Man,0,1,50,79.42
+458,Win EVeRY Time,425,Kaptain Obvious,0,1,77.96,122.52
+458,Win EVeRY Time,426,AWON BOYS,0,1,59.2,126.9
+458,Win EVeRY Time,427,Chasing Legacy,0,1,82.14,113.56
+458,Win EVeRY Time,428,kukere kings,1,0,90.06,76.2
+458,Win EVeRY Time,430,Knights of the Odell Republic,0,1,89.34,111.6
+458,Win EVeRY Time,431,Mark Alexander I,0,1,66.32,109.14
+458,Win EVeRY Time,433,babyPanther,1,0,93.6,77.02
+458,Win EVeRY Time,437,Last Dance,0,1,115.34,135.42
+458,Win EVeRY Time,441,419ers,1,0,134.18,86.54
+458,Win EVeRY Time,444,Tough City Bears,1,0,125.24,90.1
+458,Win EVeRY Time,445,SUDS,1,0,118.34,110.16
+458,Win EVeRY Time,446,Wanna be Startin Sutton,1,0,92.82,82.2
+458,Win EVeRY Time,447,FlyinRyan,1,0,131.7,67.3
+458,Win EVeRY Time,459,Coming Soon,1,0,113.72,53.38
+459,Coming Soon,425,Kaptain Obvious,0,1,61.6,68.8
+459,Coming Soon,427,Chasing Legacy,0,1,77.8,93.2
+459,Coming Soon,428,kukere kings,1,0,100.9,51.66
+459,Coming Soon,431,Mark Alexander I,0,1,91.9,98.36
+459,Coming Soon,432,Half Baked,1,0,113.72,97.5
+459,Coming Soon,433,babyPanther,1,0,76.06,59.36
+459,Coming Soon,434,Super Bears FC,1,0,118.38,104.98
+459,Coming Soon,437,Last Dance,1,0,148.2,108.18
+459,Coming Soon,445,SUDS,0,1,80.66,97.12
+459,Coming Soon,447,FlyinRyan,0,1,82.8,151.14
+459,Coming Soon,455,TD Man,0,1,110.64,119.56
+459,Coming Soon,456,Mr McGibblets,0,1,100.6,108.36
+459,Coming Soon,458,Win EVeRY Time,0,1,53.38,113.72
+459,Coming Soon,460,RedZone Junkies,0,1,107.06,110.54
+460,RedZone Junkies,426,AWON BOYS,1,0,148.04,83.18
+460,RedZone Junkies,428,kukere kings,1,0,121.92,80.34
+460,RedZone Junkies,430,Knights of the Odell Republic,0,1,81.4,112.4
+460,RedZone Junkies,431,Mark Alexander I,1,0,99.1,56.1
+460,RedZone Junkies,432,Half Baked,1,0,114.28,93.38
+460,RedZone Junkies,433,babyPanther,1,0,124.58,102.38
+460,RedZone Junkies,434,Super Bears FC,0,1,75.3,99.42
+460,RedZone Junkies,437,Last Dance,0,1,79.62,100.14
+460,RedZone Junkies,441,419ers,1,0,87.74,60.82
+460,RedZone Junkies,444,Tough City Bears,1,0,118.36,66.72
+460,RedZone Junkies,446,Wanna be Startin Sutton,1,0,124.04,74.84
+460,RedZone Junkies,455,TD Man,1,0,100,71.72
+460,RedZone Junkies,456,Mr McGibblets,0,1,56.38,66.3
+460,RedZone Junkies,459,Coming Soon,1,0,110.54,107.06
