@@ -1,7 +1,7 @@
 <nav>
   {% for item in site.data.navigation %}
     <a
-      href="{{item.link}}"
+      href="{{item.link | prepend: site.baseurl}}"
       {% if page.url == item.link | prepend: site.baseurl %}
       class="current"
       {% endif %}>
