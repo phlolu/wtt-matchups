@@ -86,6 +86,8 @@ if(selectedTeam && selectedOpp){
   if(!isAvail){
     console.log("No record of this matchup. Please select new opponent")
     alert("No record of this matchup. Please select new opponent")
+    teamSelector.selectedIndex = 0;
+    opponentSelector.selectedIndex = 0;
   }
 
 
